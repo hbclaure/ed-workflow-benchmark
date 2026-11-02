@@ -1,0 +1,16 @@
+# Official model-provider SDKs
+openai
+google-genai
+anthropic
+
+# Literature retrieval and structured extraction
+httpx
+pydantic
+python-dotenv
+pypdf
+
+# Catalog processing, duplicate matching, retries, and progress
+pandas
+rapidfuzz
+tenacity
+tqdm
